@@ -1,8 +1,8 @@
-## **:coffee:JAVA-MIDTERM-OUTPUT**
+# **:coffee:JAVA-MIDTERM-OUTPUT**
 
 A simple name & age infosystem application making use of .csv as a database. 
 
-# **:snowflake:Cool Features:snowflake:**
+## **:snowflake:Cool Features:snowflake:**
 
 - [x] :beer: Uses a graphical interface with JOption.
 - [x] :heavy_exclamation_mark: Handles errors very well.
