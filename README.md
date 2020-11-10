@@ -13,3 +13,12 @@ A simple name & age infosystem application making use of .csv as a database.
 
 ![Menu Screen](https://i.ibb.co/5rqSQx1/image.png)
 ![Add Screen](https://i.ibb.co/c88XXmf/image.png)
+
+
+In the words of Carlo's Bakeshop:
+
+> _"ho oho hoh ho"_
+
+```java
+Program written in 2.48 hours. Nov. 11, 2020
+```
