@@ -12,5 +12,4 @@ A simple name & age infosystem application making use of .csv as a database.
 ## :camera: **Screen Shots** :camera:
 
 ![Menu Screen](https://i.ibb.co/5rqSQx1/image.png)
-
 ![Add Screen](https://i.ibb.co/c88XXmf/image.png)
